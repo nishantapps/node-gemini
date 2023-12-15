@@ -1,8 +1,28 @@
 {
-  "name": "node-gemini",
+  "name": "@nishantapps/node-gemini",
   "version": "1.0.0",
+  "description": "This package will help you use gemini api easily.",
   "main": "src/index.js",
+  "scripts": {
+    "test": "node src/example.js"
+  },
+  "author": "NishantApps",
+  "license": "Apache-2.0",
+  "keywords": [],
   "dependencies": {
-    "axios": "^" 
-  }
+    "axios": "^1.6.2",
+    "franc": "^6.1.0",
+    "iso-639-3": "^3.0.1",
+    "langdetect": "^0.2.1",
+    "puppeteer": "^21.5.2",
+    "translate-google": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishantapps/node-gemini.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nishantapps/node-gemini/issues"
+  },
+  "homepage": "https://github.com/nishantapps/node-gemini#readme"
 }
