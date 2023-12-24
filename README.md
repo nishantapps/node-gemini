@@ -17,7 +17,7 @@ npm i @nishantapps/node-gemini
 ### Usage
 
 ```js
-const { Gemini } = require('@nishantapps/node-gemini');
+const Gemini = require('@nishantapps/node-gemini');
 
 const config = {
   key: 'YOUR_API_KEY',
