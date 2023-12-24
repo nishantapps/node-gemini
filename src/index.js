@@ -18,8 +18,8 @@ async function createText(text) {
       'api_key': config.apikey,
       text: encodeURIComponent(text),
       temperature:config.temperature || 0.7,
-      top-k: config.top_k || 1,
-      top-p: config.top_p || 1,
+      top_k: config.top_k || 1,
+      top_p: config.top_p || 1,
       maxOutputTokens: config.maxOutputTokens || 2000
       'X-RapidAPI-Key': config.key,
       'X-RapidAPI-Host': 'google-bard1.p.rapidapi.com',
