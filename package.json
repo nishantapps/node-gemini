@@ -3,7 +3,7 @@
     "@types/node": "^20.10.5",
     "typescript": "^5.3.3"
   },
-  "name": "node-gemini",
+  "name": "@nishantapps/node-gemini",
   "version": "2.0.0-stable",
   "description": "A very simple way to access advanced features of gemini pro easily.",
   "main": "lib/index.js",
