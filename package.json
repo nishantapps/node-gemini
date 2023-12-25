@@ -4,7 +4,7 @@
     "typescript": "^5.3.3"
   },
   "name": "node-gemini",
-  "version": "2.0.0",
+  "version": "2.0.0-stable",
   "description": "A very simple way to access advanced features of gemini pro easily.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
