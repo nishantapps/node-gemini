@@ -17,7 +17,7 @@ npm i @nishantapps/node-gemini
 ### Usage
 
 ```js
-import { Gemini } from '@nishantapps/node-gemini';
+const { Gemini } = require('@nishantapps/node-gemini');
 
 // Initialize Gemini with API keys and optional parameters
 Gemini.initialize(apiKey, makersuiteKey, temperature, topP, topK, maxOutputTokens);
