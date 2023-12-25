@@ -5,7 +5,10 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.0   | :white_check_mark: |
+| 1.0.x  | ❎ |
+| 1.5. | ❎|
+|2.0.x| ✅|
+
 
 ## Reporting a Vulnerability
 
